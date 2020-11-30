@@ -2,11 +2,13 @@
 记录python3的pygame的sprite和Group
 # 目录
 ## 碰撞检测
+矩形碰撞检测
 ## 图集
 # License
 GPL 3.0
 
 # References
+- [pygame 的精灵使用](https://www.cnblogs.com/liquancai/p/13256388.html)
 - [ BackMountainDevil /pongPygame ](https://github.com/BackMountainDevil/pongPygame)
 - [pygame游戏开发](https://blog.csdn.net/u014663232/category_9569975.html)
 - [pygame库写游戏——入门<8>——动画和帧率](https://blog.csdn.net/weixin_40497712/article/details/78763922)
