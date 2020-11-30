@@ -7,7 +7,7 @@
 @Version :  0.0.0
 @Contact :  191615342@qq.com
 @License :  GPL 3.0
-@Desc    :  矩形方块碰撞检测
+@Desc    :  两个精灵的矩形方块碰撞检测
 '''
 
 import pygame
