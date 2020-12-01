@@ -6,7 +6,8 @@
 - [一个精灵和精灵组的矩形碰撞检测](./cle_rectg.py)
 - [两精灵的圆形碰撞检测](./cle_circle.py)
 - [两精灵的像素级碰撞检测](./cle_pixel.py)
-## 图集
+## 精灵序列图
+- [一个精灵的原地动画-原地奔跑的猫1](./sp_mv1.py)
 # License
 GPL 3.0
 
@@ -19,3 +20,4 @@ GPL 3.0
 - [【python游戏编程之旅】第六篇---pygame中的Sprite（精灵）模块和加载动画](https://www.cnblogs.com/msxh/p/5013555.html)
 - [使用Sprite实现移动动画（Pygame中的精灵类）](https://zhuanlan.zhihu.com/p/161113693)
 - [pygame网络游戏_3：使用精灵图](https://blog.csdn.net/qq_39687901/article/details/88422493)
+- [如何在你的 Python 游戏中添加一个玩家](https://linux.cn/article-10858-1.html)
