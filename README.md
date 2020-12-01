@@ -7,7 +7,8 @@
 - [两精灵的圆形碰撞检测](./cle_circle.py)
 - [两精灵的像素级碰撞检测](./cle_pixel.py)
 ## 精灵序列图
-- [一个精灵的原地动画-原地奔跑的猫1](./sp_mv1.py)
+- [一个精灵的原地动画-原地奔跑的猫1-精灵组图](./sp_mv1.py)
+- [一个精灵的原地动画-原地炸机-分立图片](./sp_mv2.py)
 # License
 GPL 3.0
 
@@ -17,7 +18,6 @@ GPL 3.0
 - [ BackMountainDevil /pongPygame ](https://github.com/BackMountainDevil/pongPygame)
 - [pygame游戏开发](https://blog.csdn.net/u014663232/category_9569975.html)
 - [pygame库写游戏——入门<8>——动画和帧率](https://blog.csdn.net/weixin_40497712/article/details/78763922)
-- [【python游戏编程之旅】第六篇---pygame中的Sprite（精灵）模块和加载动画](https://www.cnblogs.com/msxh/p/5013555.html)
-- [使用Sprite实现移动动画（Pygame中的精灵类）](https://zhuanlan.zhihu.com/p/161113693)
+- [【python游戏编程之旅】第六篇---pygame中的Sprite（精灵）模块和加载动画](https://www.cnblogs.com/msxh/p/5013555.html
 - [pygame网络游戏_3：使用精灵图](https://blog.csdn.net/qq_39687901/article/details/88422493)
-- [如何在你的 Python 游戏中添加一个玩家](https://linux.cn/article-10858-1.html)
+- [用 Pygame 使你的游戏角色移动起来](https://linux.cn/article-10874-1.html)
